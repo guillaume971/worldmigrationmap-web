@@ -1,0 +1,402 @@
+{
+  "events": [
+    {
+      "title": "Korean War",
+      "date_start": "1950-06-25",
+      "date_end": "1953-07-27",
+      "countries_involved": [
+        { "name": "North Korea" },
+        { "name": "South Korea" },
+        { "name": "United States" },
+        { "name": "China" },
+        { "name": "Soviet Union", "present_name": "Russia" }
+      ],
+      "description": "The Korean War was a conflict between North Korea, supported by China and the Soviet Union (now known as Russia), and South Korea, supported by the United States and other UN member countries. The war lasted from June 25, 1950, to July 27, 1953, and ended in an armistice agreement."
+    },
+    {
+      "title": "Cuban Revolution",
+      "date_start": "1953-07-26",
+      "date_end": "1959-01-01",
+      "countries_involved": [{ "name": "Cuba" }],
+      "description": "The Cuban Revolution was a successful armed revolt led by Fidel Castro and his revolutionary forces against the Cuban government. It began on July 26, 1953, with the attack on the Moncada Barracks and culminated in the overthrow of Cuban dictator Fulgencio Batista on January 1, 1959."
+    },
+    {
+      "title": "Vietnam War",
+      "date_start": "1955-11-01",
+      "date_end": "1975-04-30",
+      "countries_involved": [
+        { "name": "United States" },
+        { "name": "Vietnam" }
+      ],
+      "description": "The Vietnam War was a prolonged conflict between North Vietnam and South Vietnam, with the United States supporting the South. The war lasted from November 1, 1955, to April 30, 1975, and ended with the fall of Saigon and the reunification of Vietnam under communist rule."
+    },
+    {
+      "title": "Space Race",
+      "date_start": "1955-07-29",
+      "date_end": "1975-07-17",
+      "countries_involved": [
+        { "name": "United States" },
+        { "name": "Soviet Union", "present_name": "Russia" }
+      ],
+      "description": "The Space Race was a competition between the United States and the Soviet Union (now known as Russia) to achieve milestones in space exploration. It spanned from July 29, 1955, to July 17, 1975, and included significant achievements such as the first human in space and the moon landing."
+    },
+    {
+      "title": "Civil Rights Movement",
+      "date_start": "1954-05-17",
+      "date_end": "1968-04-04",
+      "countries_involved": [{ "name": "United States" }],
+      "description": "The Civil Rights Movement was a social and political movement in the United States advocating for equal rights and an end to racial segregation and discrimination. It lasted from May 17, 1954, when the landmark Brown v. Board of Education ruling was issued, to April 4, 1968, when Martin Luther King Jr. was assassinated."
+    },
+    {
+      "title": "Cuban Missile Crisis",
+      "date_start": "1962-10-16",
+      "date_end": "1962-10-28",
+      "countries_involved": [
+        { "name": "United States" },
+        { "name": "Soviet Union", "present_name": "Russia" },
+        { "name": "Cuba" }
+      ],
+      "description": "The Cuban Missile Crisis was a 13-day confrontation between the United States and the Soviet Union (now known as Russia) over the placement of nuclear missiles in Cuba. The crisis occurred from October 16 to October 28, 1962, and brought the world to the brink of nuclear war before a peaceful resolution was reached."
+    },
+    {
+      "title": "Apollo 11 Moon Landing",
+      "date_start": "1969-07-20",
+      "date_end": "1969-07-20",
+      "countries_involved": [{ "name": "United States" }],
+      "description": "Apollo 11 was the first crewed mission to land on the moon. On July 20, 1969, astronauts Neil Armstrong and Edwin \"Buzz\" Aldrin became the first humans to set foot on the lunar surface, achieving a historic milestone in space exploration."
+    },
+    {
+      "title": "Woodstock Festival",
+      "date_start": "1969-08-15",
+      "date_end": "1969-08-18",
+      "countries_involved": [{ "name": "United States" }],
+      "description": "Woodstock was a music festival held in Bethel, New York, from August 15 to August 18, 1969. It became a symbol of the counterculture movement and is remembered for its iconic performances and message of peace and love."
+    },
+    {
+      "title": "Watergate Scandal",
+      "date_start": "1972-06-17",
+      "date_end": "1974-08-09",
+      "countries_involved": [{ "name": "United States" }],
+      "description": "The Watergate Scandal was a political scandal in the United States that led to the resignation of President Richard Nixon. It involved the break-in at the Democratic National Committee headquarters at the Watergate complex and subsequent cover-up activities. The scandal occurred from June 17, 1972, to August 9, 1974."
+    },
+    {
+      "title": "Yom Kippur War",
+      "date_start": "1973-10-06",
+      "date_end": "1973-10-25",
+      "countries_involved": [
+        { "name": "Israel" },
+        { "name": "Egypt" },
+        { "name": "Syria" }
+      ],
+      "description": "The Yom Kippur War was a conflict between Israel and a coalition of Arab states led by Egypt and Syria. It began on October 6, 1973, and lasted until October 25, 1973. The war had significant implications for the region and led to various diplomatic efforts to resolve the ongoing Arab-Israeli conflict."
+    },
+    {
+      "title": "End of the Vietnam War",
+      "date_start": "1975-04-30",
+      "date_end": "1975-04-30",
+      "countries_involved": [
+        { "name": "United States" },
+        { "name": "Vietnam" }
+      ],
+      "description": "The Vietnam War came to an end on April 30, 1975, with the fall of Saigon, the capital of South Vietnam. The North Vietnamese forces captured Saigon, leading to the reunification of Vietnam under communist rule and the official end of the conflict."
+    },
+
+    {
+      "title": "Tangshan Earthquake",
+      "date_start": "1976-07-28",
+      "date_end": "1976-07-28",
+      "countries_involved": [{ "name": "China" }],
+      "description": "The Tangshan earthquake, also known as the Great Tangshan earthquake, struck the city of Tangshan in Hebei, China, on July 28, 1976. It was a devastating earthquake with a magnitude of 7.5 to 7.8, causing widespread destruction and loss of life. The official death toll was estimated at over 240,000, making it one of the deadliest earthquakes in recorded history."
+    },
+    {
+      "title": "Death of Mao Zedong",
+      "date_start": "1976-09-09",
+      "date_end": "1976-09-09",
+      "countries_involved": [{ "name": "China" }],
+      "description": "Mao Zedong, the founding father of the People's Republic of China and the leader of the Chinese Communist Party, passed away on September 9, 1976. His death marked the end of an era in Chinese history and led to a period of transition and power struggle within the Chinese leadership."
+    },
+    {
+      "title": "Soweto Uprising",
+      "date_start": "1976-06-16",
+      "date_end": "1976-06-16",
+      "countries_involved": [{ "name": "South Africa" }],
+      "description": "The Soweto Uprising was a series of protests and demonstrations in the black township of Soweto, South Africa, against the compulsory use of Afrikaans as a medium of instruction in schools. On June 16, 1976, thousands of students marched peacefully, demanding better education and equal rights. The police responded with violence, resulting in hundreds of deaths and drawing international attention to the apartheid regime in South Africa."
+    },
+    {
+      "title": "Spanish Transition to Democracy",
+      "date_start": "1977-06-15",
+      "date_end": "1977-06-15",
+      "countries_involved": [{ "name": "Spain" }],
+      "description": "The Spanish Transition to Democracy, also known as the Spanish Transition, was a crucial period in Spanish history following the death of dictator Francisco Franco in 1975. On June 15, 1977, Spain held its first democratic elections since the Spanish Civil War, marking a significant step towards establishing a democratic government and ending nearly four decades of authoritarian rule."
+    },
+    {
+      "title": "Iranian Revolution",
+      "date_start": "1978-01-07",
+      "date_end": "1979-04-01",
+      "countries_involved": [{ "name": "Iran" }],
+      "description": "The Iranian Revolution was a series of protests and political upheavals that led to the overthrow of Iran's monarchy and the establishment of an Islamic Republic. It began on January 7, 1978, and continued until April 1, 1979, when Iran officially became an Islamic Republic under the leadership of Ayatollah Ruhollah Khomeini."
+    },
+    {
+      "title": "Soviet-Afghan War",
+      "date_start": "1979-12-25",
+      "date_end": "1989-02-15",
+      "countries_involved": [
+        { "name": "Soviet Union", "present_name": "Russia" },
+        { "name": "Afghanistan" }
+      ],
+      "description": "The Soviet-Afghan War was a conflict between Soviet forces and Afghan mujahideen rebels. It began on December 25, 1979, and continued until February 15, 1989. The war had significant regional and geopolitical implications and resulted in the withdrawal of Soviet troops from Afghanistan."
+    },
+    {
+      "title": "Three Mile Island Accident",
+      "date_start": "1979-03-28",
+      "date_end": "1979-03-28",
+      "countries_involved": [{ "name": "United States" }],
+      "description": "The Three Mile Island nuclear power plant accident occurred on March 28, 1979, near Harrisburg, Pennsylvania, United States. It was the most serious accident in U.S. commercial nuclear power plant history and raised concerns about nuclear safety and regulation."
+    },
+    {
+      "title": "Iran-Iraq War",
+      "date_start": "1980-09-22",
+      "date_end": "1988-08-20",
+      "countries_involved": [{ "name": "Iran" }, { "name": "Iraq" }],
+      "description": "The Iran-Iraq War was a protracted conflict between Iran and Iraq. It began on September 22, 1980, and lasted until August 20, 1988. The war resulted in significant casualties and economic damages for both countries but did not lead to substantial territorial changes."
+    },
+    {
+      "title": "Falklands War",
+      "date_start": "1982-04-02",
+      "date_end": "1982-06-14",
+      "countries_involved": [
+        { "name": "United Kingdom" },
+        { "name": "Argentina" }
+      ],
+      "description": "The Falklands War was a conflict between the United Kingdom and Argentina over the disputed Falkland Islands. It began on April 2, 1982, and ended on June 14, 1982, with the British reclaiming control of the islands."
+    },
+    {
+      "title": "Assassination of Indira Gandhi",
+      "date_start": "1984-10-31",
+      "date_end": "1984-10-31",
+      "countries_involved": [{ "name": "India" }],
+      "description": "Indira Gandhi, the Prime Minister of India, was assassinated on October 31, 1984, by her Sikh bodyguards in retaliation for the Indian Army's Operation Blue Star, which targeted militants in the Golden Temple in Amritsar. Her assassination led to widespread anti-Sikh riots in India."
+    },
+    {
+      "title": "Chernobyl Disaster",
+      "date_start": "1986-04-26",
+      "date_end": "1986-05-09",
+      "countries_involved": [
+        { "name": "Soviet Union", "present_name": "Ukraine" }
+      ],
+      "description": "The Chernobyl Nuclear Power Plant disaster occurred on April 26, 1986, in the Soviet Union (now known as Ukraine). It was the worst nuclear accident in history, releasing a significant amount of radioactive material into the atmosphere and having far-reaching environmental and health consequences."
+    },
+    {
+      "title": "End of Apartheid in South Africa",
+      "date_start": "1990-02-02",
+      "date_end": "1990-02-02",
+      "countries_involved": [{ "name": "South Africa" }],
+      "description": "On February 2, 1990, South African President F.W. de Klerk announced the end of apartheid and the unbanning of anti-apartheid political parties, including the African National Congress (ANC). This announcement marked a significant turning point in the country's history, leading to negotiations for a new democratic South Africa."
+    },
+    {
+      "title": "Fall of the Berlin Wall",
+      "date_start": "1989-11-09",
+      "date_end": "1989-11-09",
+      "countries_involved": [
+        { "name": "East Germany" },
+        { "name": "West Germany" },
+        { "name": "Soviet Union", "present_name": "Russia" }
+      ],
+      "description": "The fall of the Berlin Wall on November 9, 1989, symbolized the end of the Cold War division between East and West Germany. It led to the eventual reunification of Germany and the easing of tensions between the Eastern Bloc and the Western Bloc, culminating in the dissolution of the Soviet Union in 1991."
+    },
+    {
+      "title": "Gulf War",
+      "date_start": "1990-08-02",
+      "date_end": "1991-02-28",
+      "countries_involved": [
+        { "name": "Iraq" },
+        { "name": "Coalition Forces" }
+      ],
+      "description": "The Gulf War, also known as the First Gulf War, was a military conflict between Iraq and a coalition of nations led by the United States. It began on August 2, 1990, when Iraq invaded Kuwait, and ended on February 28, 1991, with a coalition victory and the liberation of Kuwait."
+    },
+    {
+      "title": "Dissolution of the Soviet Union",
+      "date_start": "1991-12-26",
+      "date_end": "1991-12-26",
+      "countries_involved": [
+        { "name": "Soviet Union", "present_name": "Russia" },
+        { "name": "15 Former Soviet Republics" }
+      ],
+      "description": "The Soviet Union officially dissolved on December 26, 1991, marking the end of the Cold War era. It resulted in the independence of 15 former Soviet republics, including Russia, Ukraine, Belarus, and others."
+    },
+    {
+      "title": "Maastricht Treaty",
+      "date_start": "1993-11-01",
+      "date_end": "1993-11-01",
+      "countries_involved": [{ "name": "European Union" }],
+      "description": "The Maastricht Treaty, signed on November 1, 1993, paved the way for the creation of the European Union (EU). It laid out the framework for deeper economic and political integration among European nations and introduced the euro as the official currency of several EU member states."
+    },
+    {
+      "title": "Rwandan Genocide",
+      "date_start": "1994-04-07",
+      "date_end": "1994-07-15",
+      "countries_involved": [{ "name": "Rwanda" }],
+      "description": "The Rwandan Genocide was a mass slaughter of Tutsi and moderate Hutu people in Rwanda. It began on April 7, 1994, and lasted for approximately 100 days until July 15, 1994. An estimated 500,000 to 1 million people were killed in one of the most devastating genocides in history."
+    },
+    {
+      "title": "First Chechen War",
+      "date_start": "1994-12-11",
+      "date_end": "1996-08-31",
+      "countries_involved": [{ "name": "Russia" }, { "name": "Chechnya" }],
+      "description": "The First Chechen War was a conflict between Russia and the Chechen Republic of Ichkeria. It began on December 11, 1994, and officially ended on August 31, 1996. The war resulted in significant casualties and destruction, and it set the stage for further conflicts in the region."
+    },
+    {
+      "title": "Hong Kong Handover",
+      "date_start": "1997-07-01",
+      "date_end": "1997-07-01",
+      "countries_involved": [
+        { "name": "United Kingdom" },
+        {
+          "name": "China",
+          "present_name": "Hong Kong Special Administrative Region"
+        }
+      ],
+      "description": "On July 1, 1997, the United Kingdom handed over sovereignty of Hong Kong to China, ending British colonial rule. Hong Kong became a Special Administrative Region (SAR) of China under the principle of \"one country, two systems.\""
+    },
+    {
+      "title": "Kosovo War",
+      "date_start": "1998-02-28",
+      "date_end": "1999-06-11",
+      "countries_involved": [{ "name": "NATO" }, { "name": "Kosovo" }],
+      "description": "The Kosovo War was an armed conflict in Kosovo, a region of Serbia, during which NATO forces intervened to stop the ethnic cleansing of Albanians by Serbian forces. The war began on February 28, 1998, and ended on June 11, 1999, with the withdrawal of Serbian forces and the establishment of United Nations administration in Kosovo."
+    },
+    {
+      "title": "East Timor Independence",
+      "date_start": "1999-08-30",
+      "date_end": "2002-05-20",
+      "countries_involved": [
+        { "name": "East Timor", "present_name": "Timor-Leste" },
+        { "name": "Indonesia" }
+      ],
+      "description": "East Timor, also known as Timor-Leste, gained independence from Indonesia on August 30, 1999. The process of independence was overseen by the United Nations and culminated in the official restoration of independence on May 20, 2002."
+    },
+    {
+      "title": "Y2K Bug",
+      "date_start": "2000-01-01",
+      "date_end": "2000-01-01",
+      "countries_involved": [{ "name": "Global" }],
+      "description": "The Y2K Bug was a computer bug that caused concerns about the ability of computer systems to handle the change from December 31, 1999, to January 1, 2000. Many feared that the glitch could lead to widespread system failures, but extensive preparations and fixes mitigated the impact."
+    },
+    {
+      "title": "September 11 Attacks",
+      "date_start": "2001-09-11",
+      "date_end": "2001-09-11",
+      "countries_involved": [{ "name": "United States" }],
+      "description": "On September 11, 2001, terrorist attacks were carried out by the extremist group al-Qaeda against the United States. They targeted the World Trade Center in New York City and the Pentagon in Washington, D.C. The attacks resulted in the loss of thousands of lives and had a profound impact on global politics and security."
+    },
+    {
+      "title": "Iraq War",
+      "date_start": "2003-03-20",
+      "date_end": "2011-12-18",
+      "countries_involved": [
+        { "name": "United States" },
+        { "name": "United Kingdom" },
+        { "name": "Iraq" }
+      ],
+      "description": "The Iraq War, also known as the Second Gulf War, began on March 20, 2003, with a coalition-led invasion of Iraq. The conflict led to the removal of Iraqi President Saddam Hussein and the establishment of a new government. The war officially ended on December 18, 2011, with the withdrawal of U.S. troops."
+    },
+    {
+      "title": "Hurricane Katrina",
+      "date_start": "2005-08-23",
+      "date_end": "2005-08-31",
+      "countries_involved": [{ "name": "United States" }],
+      "description": "Hurricane Katrina was a devastating hurricane that struck the United States from August 23 to August 31, 2005. It particularly impacted the Gulf Coast regions, including New Orleans. The hurricane caused widespread destruction, loss of life, and highlighted issues with disaster preparedness and response."
+    },
+    {
+      "title": "Indian Ocean Earthquake and Tsunami",
+      "date_start": "2004-12-26",
+      "date_end": "2004-12-26",
+      "countries_involved": [
+        { "name": "Global" },
+        {
+          "name": "Countries Affected: Indonesia, Sri Lanka, India, Thailand, and others"
+        }
+      ],
+      "description": "The Indian Ocean earthquake and tsunami, also known as the Boxing Day Tsunami, occurred on December 26, 2004. It was one of the deadliest natural disasters in history, resulting from a massive undersea earthquake off the coast of Sumatra, Indonesia. The tsunami affected multiple countries in the Indian Ocean region, causing widespread destruction and loss of life."
+    },
+    {
+      "title": "Lehman Brothers Bankruptcy",
+      "date_start": "2008-09-15",
+      "date_end": "2008-09-15",
+      "countries_involved": [{ "name": "United States" }, { "name": "Global" }],
+      "description": "On September 15, 2008, Lehman Brothers, a major financial institution in the United States, filed for bankruptcy. The bankruptcy marked a significant event in the global financial crisis, causing shockwaves throughout the global financial system and contributing to a severe economic downturn."
+    },
+    {
+      "title": "Haiti Earthquake",
+      "date_start": "2010-01-12",
+      "date_end": "2010-01-12",
+      "countries_involved": [{ "name": "Haiti" }],
+      "description": "The Haiti earthquake struck on January 12, 2010, with a magnitude of 7.0. The earthquake devastated the capital city, Port-au-Prince, and surrounding areas, causing widespread destruction and a significant humanitarian crisis. The disaster led to an international response to aid in the recovery and rebuilding efforts."
+    },
+    {
+      "title": "Deepwater Horizon Oil Spill",
+      "date_start": "2010-04-20",
+      "date_end": "2010-07-15",
+      "countries_involved": [{ "name": "United States" }, { "name": "Global" }],
+      "description": "The Deepwater Horizon oil spill was an environmental disaster that occurred on April 20, 2010, in the Gulf of Mexico. An explosion and subsequent oil leak from the Deepwater Horizon offshore drilling rig resulted in one of the largest oil spills in history, impacting marine life and coastal ecosystems."
+    },
+    {
+      "title": "Arab Spring",
+      "date_start": "2010-12-18",
+      "date_end": "2012-12-01",
+      "countries_involved": [{ "name": "Multiple Arab Countries" }],
+      "description": "The Arab Spring is a series of pro-democracy protests and uprisings that began on December 18, 2010, in Tunisia and spread to several other Arab countries. The movement aimed to challenge authoritarian regimes and demand political reforms and social justice. The Arab Spring had far-reaching implications across the Middle East and North Africa."
+    },
+    {
+      "title": "Fukushima Daiichi Nuclear Disaster",
+      "date_start": "2011-03-11",
+      "date_end": "2011-03-11",
+      "countries_involved": [{ "name": "Japan" }],
+      "description": "On March 11, 2011, a massive earthquake and tsunami struck Japan, triggering a nuclear disaster at the Fukushima Daiichi Nuclear Power Plant. The disaster resulted in a release of radioactive materials and raised concerns about nuclear safety and energy policies worldwide."
+    },
+    {
+      "title": "Death of Osama bin Laden",
+      "date_start": "2011-05-02",
+      "date_end": "2011-05-02",
+      "countries_involved": [
+        { "name": "United States" },
+        { "name": "Pakistan" }
+      ],
+      "description": "On May 2, 2011, Osama bin Laden, the mastermind behind the 9/11 attacks, was killed by U.S. Navy SEALs during a raid on his compound in Abbottabad, Pakistan. His death marked a significant milestone in the fight against terrorism."
+    },
+    {
+      "title": "Brexit Referendum",
+      "date_start": "2016-06-23",
+      "date_end": "2016-06-23",
+      "countries_involved": [{ "name": "United Kingdom" }],
+      "description": "On June 23, 2016, the United Kingdom held a referendum on whether to remain in or leave the European Union. The majority of voters chose to leave, and the process of the UK's withdrawal from the EU, known as Brexit, commenced, leading to complex negotiations and political changes."
+    },
+    {
+      "title": "Syrian Civil War",
+      "date_start": "2011-03-15",
+      "date_end": "Ongoing",
+      "countries_involved": [{ "name": "Syria" }],
+      "description": "The Syrian Civil War began on March 15, 2011, as a result of protests against the government of Bashar al-Assad. The conflict evolved into a multi-sided war involving regional and international powers, leading to a humanitarian crisis, widespread displacement, and significant loss of life."
+    },
+    {
+      "title": "COVID-19 Pandemic",
+      "date_start": "2019-12-31",
+      "date_end": "2023-05-05",
+      "countries_involved": [{ "name": "Global" }],
+      "description": "The COVID-19 pandemic, caused by the novel coronavirus (SARS-CoV-2), emerged in late 2019 in Wuhan, China, and quickly spread worldwide. The pandemic led to widespread illness, lockdowns, travel restrictions, and significant impacts on public health, economies, and daily life worldwide."
+    },
+    {
+      "title": "Russian Invasion of Ukraine",
+      "date_start": "2022-02-24",
+      "date_end": "Ongoing",
+      "countries_involved": [
+        { "name": "Ukraine" },
+        { "name": "Russia" },
+        { "name": "Belarus" },
+        { "name": "Donetsk People's Republic", "present_name": "Donetsk PR" },
+        { "name": "Luhansk People's Republic", "present_name": "Luhansk PR" }
+      ],
+      "description": "On February 24, 2022, Russia invaded Ukraine, escalating the ongoing Russo-Ukrainian War. The invasion has caused tens of thousands of deaths, mass civilian casualties, and triggered a major humanitarian crisis with millions displaced. Extensive environmental damage and Europe's largest refugee crisis since World War II are among the consequences. The conflict has faced international condemnation, sanctions, and an ICC investigation for possible war crimes and genocide."
+    }
+  ]
+}
