@@ -35,11 +35,13 @@ const HistoricalEventsList: React.FC<HistoricalEventsListProps> = ({
             <dt className="text-pink-800 uppercase font-semibold text-xs mb-2 cursor-default">
               {event.title}
             </dt>
-            <dd className="text-gray-500">{event.description}</dd>
+            <dd className="text-sm md:text-base text-gray-500">
+              {event.description}
+            </dd>
           </div>
         ))
       ) : (
-        <p>No major historical events in this year.</p>
+        <p>No major historical events data available for this year.</p>
       )}
     </dl>
   );

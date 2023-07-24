@@ -1,6 +1,8 @@
-# World Migration Map Frontend (worldmigrationmap-web)
+# World Migration Map (Frontend)
 
 World Migration Map Frontend is the client-side component of the World Migration Map application. It’s an open-source project developed by Heitor Nóbrega Tico and Guillaume Lelasseur, which presents an interactive world map interface visualizing historical migration trends.
+
+Check the application live here: https://worldmigrationmap.org
 
 ## Features
 

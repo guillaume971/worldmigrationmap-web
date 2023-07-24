@@ -11,11 +11,11 @@ const App: React.FC = () => {
   return (
     <>
       <main>
-        <section className="relative z-20 mt-24 max-w-prose mx-auto text-center">
-          <h1 className="text-gray-200 text-3xl font-semibold">
+        <section className="relative z-20 mt-6 md:mt-24 md:max-w-prose mx-4 md:mx-auto text-center">
+          <h1 className="text-gray-200 text-2xl md:text-3xl font-semibold">
             The World Migration Map
           </h1>
-          <p className=" text-gray-400 my-4">
+          <p className="text-sm md:text-base text-gray-400 my-4">
             The <i className="italic">World Migration Map</i> is a dynamic tool
             that aims to provide valuable insights into historical and projected
             population migrations worldwide, highlighting the influences of
@@ -30,13 +30,13 @@ const App: React.FC = () => {
           <aside className="sticky z-10 top-0 pt-11 left-0 w-full before:content-[''] before:absolute before:top-0 before:left-0 before:w-full before:shadow-[0_0_10em_6em] before:shadow-gray-950">
             <YearSlider year={year} setYear={setYear} />
           </aside>
-          <figure className="-mt-14 -mb-56">
+          <figure className="mt-4 md:-mt-8 lg:-mt-14 -mb-8 lg:-mb-56">
             <MigrationMap year={year} />
           </figure>
           <figure className="text-gray-600 text-xs font-medium sticky bottom-0 left-0 p-4 space-y-2">
             <Legend />
           </figure>
-          <article className="min-h-screen max-w-prose mx-auto">
+          <article className="min-h-screen mx-4 mt-4 md:mt-0 md:max-w-prose md:mx-auto">
             {year > 2023 ? (
               <FutureImpacts />
             ) : (

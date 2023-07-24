@@ -18,7 +18,9 @@ export const useHistoricalEvents = () => {
         const data: { events: HistoricalEvent[] } = await response.json();
         setEvents(data.events);
       } catch (error) {
-        setError(error.message);
+        if (error instanceof Error) {
+          setError(error.message);
+        }
       } finally {
         setLoading(false);
       }

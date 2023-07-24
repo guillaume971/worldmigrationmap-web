@@ -20,7 +20,9 @@ export const useMigrationData = () => {
         const data: YearMigrationData = await response.json();
         setAllData(data);
       } catch (error) {
-        setError(error.message);
+        if (error instanceof Error) {
+          setError(error.message);
+        }
       } finally {
         setLoading(false);
       }

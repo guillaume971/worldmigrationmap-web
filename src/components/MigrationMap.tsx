@@ -1,11 +1,6 @@
 import React from "react";
 import * as Tooltip from "@radix-ui/react-tooltip";
-import {
-  ComposableMap,
-  Geographies,
-  Geography,
-  ZoomableGroup,
-} from "react-simple-maps";
+import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import world from "../data/world-110m.json";
 import { useMigrationData } from "../hooks/useMigrationData";
 import { MigrationData } from "../types";
